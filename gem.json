@@ -21,8 +21,9 @@
     "requirements": "Notice of any requirements for this Gem i.e. This requires X other gem",
     "documentation_url": "Link to any documentation of your Gem",
     "dependencies": [],
-    "repo_uri": "",
+    "repo_uri": "https://github.com/AMZN-alexpete/single-gem-repo.git",
     "compatible_engines": [],
     "engine_api_dependencies": [],
-    "restricted": "single-gem-repo"
+    "restricted": "single-gem-repo",
+    "download_source_uri": "https://github.com/AMZN-alexpete/single-gem-repo/releases/download/1.0.0/single-gem-repo-1.0.0-gem.zip"
 }
