@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder single-gem-repo/Assets": {
+                    "watch": "@GEMROOT:single-gem-repo@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder single-gem-repo/Registry": {
+                    "watch": "@GEMROOT:single-gem-repo@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}
