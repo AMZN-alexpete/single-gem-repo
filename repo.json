@@ -36,7 +36,16 @@
             "engine_api_dependencies": [],
             "restricted": "single-gem-repo",
             "download_source_uri": "https://github.com/AMZN-alexpete/single-gem-repo/releases/download/1.0.0/single-gem-repo-1.0.0-gem.zip",
-            "sha256": "2bd3979e175da87488566524c4d9ee6e82e3ec4dbe3744ee5d3febf150b66a89"
+            "sha256": "2bd3979e175da87488566524c4d9ee6e82e3ec4dbe3744ee5d3febf150b66a89",
+            "versions_data": [
+                {
+                    "version": "2.2.1",
+                    "summary": "Updated description",
+                    "repo_uri": "https://github.com/amzn-alexpete/single-gem-repo",
+                    "download_source_uri": "https://github.com/AMZN-alexpete/single-gem-repo/releases/download/2.2.1/single-gem-repo-2.2.1-gem.zip",
+                    "sha256": "02207fd236a2265305ac6235847a22933d36403683a86a72248101f882c62790"
+                }
+            ]
         }
     ],
     "projects_data": [],
